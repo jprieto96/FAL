@@ -1,0 +1,5 @@
+﻿  Abrigos.cpp
+C:\Users\jose_\source\repos\Abrigos\Abrigos\Abrigos.cpp(34,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jose_\source\repos\Abrigos\Abrigos\Abrigos.cpp(67,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jose_\source\repos\Abrigos\Abrigos\Abrigos.cpp(71,20): warning C4018: '<': no coinciden signed/unsigned
+  Abrigos.vcxproj -> C:\Users\jose_\source\repos\Abrigos\Debug\Abrigos.exe

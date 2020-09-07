@@ -1,0 +1,6 @@
+﻿  PlantillaJuezCasosIlimitados.cpp
+C:\Users\jose_\source\repos\Ej1Juez\Ej1Juez\PlantillaJuezCasosIlimitados.cpp(21,26): error C2018:  carácter '0x14' desconocido
+  datos.txt
+C:\Users\jose_\source\repos\Ej1Juez\Ej1Juez\PlantillaJuezCasosIlimitados.cpp(21,33): error C2143:  error de sintaxis: falta ';' delante de 'std::abs'
+  Generando código...
+C:\Users\jose_\source\repos\Ej1Juez\Ej1Juez\datos.txt(1,1): error C2059:  error de sintaxis: 'constante'
